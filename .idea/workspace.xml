@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exo 1/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 2/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 3/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 4/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 1/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 2/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 3/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,17 +20,31 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kVURtJvPl2ymuHIG1WfZ0P0NVF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605785252556</updated>
       <workItem from="1605785254971" duration="300000" />
+      <workItem from="1606125382674" duration="477000" />
     </task>
     <servers />
   </component>
@@ -53,5 +73,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
